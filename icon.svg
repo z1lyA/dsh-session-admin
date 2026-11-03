@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Session Archive">
+  <defs>
+    <linearGradient id="box" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4b7bec"/>
+      <stop offset="1" stop-color="#2b4fbf"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="12" width="48" height="11" rx="3" fill="url(#box)"/>
+  <path d="M13 24h38v24a6 6 0 0 1-6 6H19a6 6 0 0 1-6-6V24z" fill="#eef3ff"/>
+  <path d="M13 24h38v24a6 6 0 0 1-6 6H19a6 6 0 0 1-6-6V24z" fill="none" stroke="#2b4fbf" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M26 34h12" fill="none" stroke="#2b4fbf" stroke-width="3.5" stroke-linecap="round"/>
+  <rect x="8" y="12" width="48" height="11" rx="3" fill="none" stroke="#1d3f9e" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Archived Session Manager",
+    "description": "Adds an Archived page to the sidebar: batch unarchive sessions and permanently delete their logs, projection cache, archive records, and no-longer-referenced attachments."
+  }
+}

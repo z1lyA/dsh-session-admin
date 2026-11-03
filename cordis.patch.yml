@@ -1,0 +1,9 @@
+# Session Archive bundle patch: one Host row. The browser half ships through
+# package.json's dsh.client declaration and exports["./client"].
+- insert:
+    - id: session-admin
+      name: dsh-session-admin
+      config:
+        # Default for the page's "also remove unreferenced attachments" option.
+        # It is only honoured after a complete reference scan.
+        cleanupAttachmentsDefault: true
