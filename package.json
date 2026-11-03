@@ -12,13 +12,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zipeter/dsh-session-admin.git"
+    "url": "git+https://github.com/z1lyA/dsh-session-admin.git"
   },
-  "homepage": "https://github.com/Zipeter/dsh-session-admin#readme",
+  "homepage": "https://github.com/z1lyA/dsh-session-admin#readme",
   "bugs": {
-    "url": "https://github.com/Zipeter/dsh-session-admin/issues"
+    "url": "https://github.com/z1lyA/dsh-session-admin/issues"
   },
-  "author": "Zipeter",
+  "author": "z1lyA",
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",

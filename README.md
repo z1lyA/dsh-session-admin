@@ -76,7 +76,7 @@ DSH 的 agent 工具按 **agent preset** 组合，web 应用层的 bundle 行注
 从 GitHub 安装（推荐，需要 Full access）：
 
 ```
-dsh plugin --profile desktop add github:Zipeter/dsh-session-admin
+dsh plugin --profile desktop add github:z1lyA/dsh-session-admin
 ```
 
 或用本地目录安装（开发调试）：
